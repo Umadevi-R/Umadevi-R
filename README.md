@@ -1,6 +1,6 @@
 ### Hola,I'm Umadevi.R! 👋
 A Passionate Coder and Developer and An Enthusiastic Learner
-- 🌱 I’m currently learning Node.js,Express.js,React and Spring boot
+- 🌱 I’m currently learning Node,Express,React for front-end development and Spring boot for backend✨
 - 😄 Pronouns: She/Her
 <!--
 **Umadevi-R/Umadevi-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
