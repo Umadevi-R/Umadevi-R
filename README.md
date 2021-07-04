@@ -31,17 +31,9 @@
  <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
  <img align="left" alt="Spring" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 </div>
-
-
-<br/><br/>
-<details>
- <summary>GitHub Stats</summary>
-  <img alt="Uma's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Umadevi-R&show_icons=true&hide_border=true" />
- </details>
-<details>
-  <summary>Most Used Languages</summary>
-  <img alt="Uma's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umadevi-R" />
-</details>
+<br/><br/><br/>
+  <img  align="left" alt="Uma's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Umadevi-R&show_icons=true&hide_border=true" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umadevi-R&layout=compact" height="170px">
 <!--
 **Umadevi-R/Umadevi-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
