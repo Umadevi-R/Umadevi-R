@@ -5,7 +5,7 @@
 
 ## A Passionate Coder and Developer and An Enthusiastic Learner
 - 🌱 I’m currently learning Node , React & Spring boot✨
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her🤩
 
 <img src="https://komarev.com/ghpvc/?username=Umadevi-R" alt="profileviews" />
 
