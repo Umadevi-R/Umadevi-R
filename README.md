@@ -34,5 +34,5 @@
 <br/><br/><br/>
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Umadevi-R&show_icons=true&theme=radical" height="170px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=7&layout=compact&theme=radical" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umadevi-R&langs_count=10&layout=compact&theme=radical" height="170px">
 </p>
