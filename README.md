@@ -35,4 +35,5 @@
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Umadevi-R&show_icons=true&theme=radical" height="170px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umadevi-R&langs_count=10&layout=compact&theme=radical" height="170px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umadevi-R" alt="GitHub Stats" /> <br/><br/>
 </p>
