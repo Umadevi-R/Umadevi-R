@@ -4,7 +4,7 @@
 
 
 ## A Passionate Coder and Developer and An Enthusiastic Learner
-- 🌱 I’m currently learning Typescript , React & Spring boot✨
+- 🌱 I’m currently learning AWS,Kotlin,Spock(Groovy)✨
 - 😄 Pronouns: She/Her🤩
 
 <img src="https://komarev.com/ghpvc/?username=Umadevi-R" alt="profileviews" />
